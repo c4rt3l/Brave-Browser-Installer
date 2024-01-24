@@ -4,4 +4,4 @@ chmod +x brave-installer.sh
 
 Then:
 
-sudo ./brave-installer.sh
+./brave-installer.sh
